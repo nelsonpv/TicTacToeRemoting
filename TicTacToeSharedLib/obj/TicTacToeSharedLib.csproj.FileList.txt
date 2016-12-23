@@ -1,0 +1,10 @@
+bin\Release\TicTacToeSharedLib.dll
+bin\Release\TicTacToeSharedLib.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TicTacToeSharedLib.dll
+obj\Release\TicTacToeSharedLib.pdb
+bin\Debug\TicTacToeSharedLib.dll
+bin\Debug\TicTacToeSharedLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TicTacToeSharedLib.dll
+obj\Debug\TicTacToeSharedLib.pdb

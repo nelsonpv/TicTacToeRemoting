@@ -1,0 +1,16 @@
+bin\Release\TicTacToeServer.exe.config
+bin\Release\TicTacToeServer.exe
+bin\Release\TicTacToeServer.pdb
+bin\Release\TicTacToeSharedLib.dll
+bin\Release\TicTacToeSharedLib.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TicTacToeServer.exe
+obj\Release\TicTacToeServer.pdb
+bin\Debug\TicTacToeServer.exe.config
+bin\Debug\TicTacToeServer.exe
+bin\Debug\TicTacToeServer.pdb
+bin\Debug\TicTacToeSharedLib.dll
+bin\Debug\TicTacToeSharedLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TicTacToeServer.exe
+obj\Debug\TicTacToeServer.pdb
